@@ -1,0 +1,3 @@
+# Beecrowd-C
+Here are my C code solutions for the Beecrowd problems.
+I am a student at Unioeste (State University of Western Paraná, Brazil) and in 2024 I am in my first year of Computer Science. I had never had any contact with programming before, and I didn’t even have a computer for it. I started programming on June 24, 2024. Then I realized that many people were doing this, so I decided to create my own versions of problems since many issues are still unsolved online. I hope to help those who are just starting out or even those who have been programming for a while. Thank you all very much.
