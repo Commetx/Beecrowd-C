@@ -1,5 +1,5 @@
 // 1002 Beecrowd (Área Do Círculo)
-// Por Commetx
+// Por Commetz
 #include <stdio.h>
 
 int main() {
