@@ -1,5 +1,5 @@
 // 1008 Beecrowd (Salário)
-// Por Commetx
+// Por Commetz
 #include <stdio.h>
 
 int main() {
