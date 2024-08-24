@@ -1,5 +1,5 @@
 // 1016 Beecrowd (Distância)
-// Por Commetx
+// Por Commetz
 #include <stdio.h>
 
 int main() {
