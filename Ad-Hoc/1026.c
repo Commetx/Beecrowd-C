@@ -1,5 +1,5 @@
 // 1026 Beecrowd (Carrega ou não Carrega?)
-// Por Commetx
+// Por Commetz
 #include <stdio.h>
 
 int main() {
