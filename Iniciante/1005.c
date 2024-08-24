@@ -1,5 +1,5 @@
 // 1005 Beecrowd (Média 1)
-// Por Commetx
+// Por Commetz
 #include <stdio.h>
 
 int main() {
