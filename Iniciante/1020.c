@@ -1,5 +1,5 @@
 // 1020 Beecrowd (Idade em Dias)
-// Por Commetx
+// Por Commetz
 #include <stdio.h>
 
 int main() {
