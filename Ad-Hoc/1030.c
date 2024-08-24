@@ -1,5 +1,5 @@
 // 1030 Beecrowd (A Lenda de Flavious Josephus)
-// Por Commetx
+// Por Commetz
 #include <stdio.h>
 
 // Função para calcular o número de pessoas que sobreviveram
