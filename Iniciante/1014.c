@@ -1,5 +1,5 @@
 // 1014 Beecrowd (Consumo)
-// Por Commetx
+// Por Commetz
 #include <stdio.h>
 
 int main() {
