@@ -1,5 +1,5 @@
 // 1007 Beecrowd (Diferença)
-// Por Commetx
+// Por Commetz
 #include <stdio.h>
 
 int main() {
