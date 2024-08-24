@@ -1,5 +1,5 @@
 // 1013 Beecrowd (O Maior)
-// Por Commetx
+// Por Commetz
 #include <stdio.h>
 
 int main() {
