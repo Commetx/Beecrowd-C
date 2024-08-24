@@ -1,5 +1,5 @@
 // 1003 Beecrowd (Soma Simples)
-// Por Commetx
+// Por Commetz
 #include <stdio.h>
 
 int main() {
