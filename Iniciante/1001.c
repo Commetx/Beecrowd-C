@@ -1,5 +1,5 @@
 // 1001 Beecrowd (Extremamente Básico)
-// Por Commetx
+// Por Commetz
 #include <stdio.h>
 
 int main() {
