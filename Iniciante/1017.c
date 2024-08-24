@@ -1,5 +1,5 @@
 // 1017 Beecrowd (Gasto de Combustível)
-// Por Commetx
+// Por Commetz
 #include <stdio.h>
 
 int main() {
