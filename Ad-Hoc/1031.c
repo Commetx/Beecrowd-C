@@ -1,5 +1,5 @@
 // 1031 Beecrowd (Crise de Energia)
-// Por Commetx
+// Por Commetz
 #include <stdio.h>
 
     // Declarando as variáveis
