@@ -1,5 +1,5 @@
 // 1010 Beecrowd (Cálculo)
-// Por Commetx
+// Por Commetz
 #include <stdio.h>
 
 int main() {
