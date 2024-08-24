@@ -1,5 +1,5 @@
 // 1000 Beecrowd (Hello World!)
-// Por Commetx
+// Por Commetz
 #include <stdio.h>
 
 int main() {
