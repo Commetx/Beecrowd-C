@@ -1,5 +1,5 @@
 // 1004 Beecrowd (Produto Simples)
-// Por Commetx 
+// Por Commetz
 #include <stdio.h>
 
 int main() {
