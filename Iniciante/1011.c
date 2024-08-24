@@ -1,5 +1,5 @@
 // 1011 Beecrowd (Esfera)
-// Por Commetx
+// Por Commetz
 #include <stdio.h>
 // Incluindo a biblioteca matemática 
 #include <math.h>
