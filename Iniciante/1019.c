@@ -1,5 +1,5 @@
 // 1019 Beecrowd (Conversão de Tempo)
-// Por Commetx
+// Por Commetz
 #include <stdio.h>
 
 int main() {
