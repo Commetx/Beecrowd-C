@@ -3,6 +3,7 @@
 #include <stdio.h>
 
 int main() {
+    
     double valor;
     int notas, moedas;
 
